@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f63636&height=400&section=header&text=Arshia%20Farrokhi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20im%20Arshia%20please%20follow%20my%20github!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f63636&height=400&section=header&text=Ashkan%20delavary&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20im%20Arshia%20please%20follow%20my%20github!&descAlignY=51&descAlign=62)
 
 
 # 💫 About Me:
